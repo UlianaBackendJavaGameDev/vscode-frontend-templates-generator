@@ -1,7 +1,10 @@
 {
   "name": "my-first-extension",
-  "displayName": "my-first-extension",
-  "description": "",
+  "displayName": "HTML & CSS Starter Pack Generator",
+  "description": "Generates modern landing page template with reset.css in one click",
+  "publisher": "UlianaBackendJavaGameDev",
+  
+  "icon": "",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.125.0"
@@ -14,8 +17,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "my-first-extension.helloWorld",
-        "title": "Hello World"
+        "command": "my-first-extension.generateTemplate",
+        "title": "Generate Website Template"
       }
     ]
   },
