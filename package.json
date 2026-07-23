@@ -1,10 +1,8 @@
 {
-  "name": "my-first-extension",
+  "name": "vscode-frontend-templates-generator",
   "displayName": "HTML & CSS Starter Pack Generator",
   "description": "Generates modern landing page template with reset.css in one click",
-  "publisher": "UlianaBackendJavaGameDev",
-  
-  "icon": "",
+  "publisher": "Uliana",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.125.0"
