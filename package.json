@@ -2,7 +2,7 @@
   "name": "vscode-frontend-templates-generator",
   "displayName": "HTML & CSS Starter Pack Generator",
   "description": "Generates modern landing page template with reset.css in one click",
-  "publisher": "Uliana",
+  "publisher": "Ulianadev",
   "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
